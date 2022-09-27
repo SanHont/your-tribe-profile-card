@@ -3,6 +3,9 @@
 ## Doel van deze opdracht
 We hebben de opdracht gekregen om onze eigen visitekaartje te maken, door gebruik te maken van HTML, CSS en Javascript. Als content maak je gebruik van informatie zoals hobbies, lievelings eten, wie je bent en contactgegevens.
 
+![image](https://user-images.githubusercontent.com/112860052/192486689-a1aee5b5-8d32-4377-8ff0-ff2c12361ea2.png)
+
+
 ## Werkwijze
 Ik ben begonnen met het schetsen en daarna ben ik de code gaan schrijven, en ik heb gebruik gemaakt van zoals we het hier noemen de "development-lifecycle" dat houd in: analyseren, ontwerpen, bouwen, integreren en testen.
 
